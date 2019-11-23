@@ -1,4 +1,4 @@
-package com.javiersantos.mlmanager;
+package com.kerrystudio.appsmanager;
 
 import org.junit.Test;
 

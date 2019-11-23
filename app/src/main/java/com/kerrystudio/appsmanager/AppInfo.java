@@ -1,4 +1,4 @@
-package com.javiersantos.mlmanager;
+package com.kerrystudio.appsmanager;
 
 import android.graphics.drawable.Drawable;
 

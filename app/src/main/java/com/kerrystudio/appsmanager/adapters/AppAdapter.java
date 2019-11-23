@@ -1,4 +1,4 @@
-package com.javiersantos.mlmanager.adapters;
+package com.kerrystudio.appsmanager.adapters;
 
 import android.app.Activity;
 import android.app.ActivityOptions;
@@ -19,15 +19,15 @@ import android.widget.TextView;
 
 import com.afollestad.materialdialogs.MaterialDialog;
 import com.gc.materialdesign.views.ButtonFlat;
-import com.javiersantos.mlmanager.MLManagerApplication;
-import com.javiersantos.mlmanager.activities.AppActivity;
-import com.javiersantos.mlmanager.AppInfo;
-import com.javiersantos.mlmanager.R;
-import com.javiersantos.mlmanager.activities.MainActivity;
-import com.javiersantos.mlmanager.async.ExtractFileInBackground;
-import com.javiersantos.mlmanager.utils.AppPreferences;
-import com.javiersantos.mlmanager.utils.UtilsApp;
-import com.javiersantos.mlmanager.utils.UtilsDialog;
+import com.kerrystudio.appsmanager.MLManagerApplication;
+import com.kerrystudio.appsmanager.activities.AppActivity;
+import com.kerrystudio.appsmanager.AppInfo;
+import com.kerrystudio.appsmanager.R;
+import com.kerrystudio.appsmanager.activities.MainActivity;
+import com.kerrystudio.appsmanager.async.ExtractFileInBackground;
+import com.kerrystudio.appsmanager.utils.AppPreferences;
+import com.kerrystudio.appsmanager.utils.UtilsApp;
+import com.kerrystudio.appsmanager.utils.UtilsDialog;
 
 import java.util.ArrayList;
 import java.util.List;

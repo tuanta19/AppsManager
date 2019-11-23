@@ -1,4 +1,4 @@
-package com.javiersantos.mlmanager.activities;
+package com.kerrystudio.appsmanager.activities;
 
 import android.app.Activity;
 import android.app.SearchManager;
@@ -25,14 +25,14 @@ import android.widget.LinearLayout;
 import android.widget.Toast;
 import android.content.pm.ApplicationInfo;
 
-import com.javiersantos.mlmanager.AppInfo;
-import com.javiersantos.mlmanager.MLManagerApplication;
-import com.javiersantos.mlmanager.R;
-import com.javiersantos.mlmanager.adapters.AppAdapter;
-import com.javiersantos.mlmanager.utils.AppPreferences;
-import com.javiersantos.mlmanager.utils.UtilsApp;
-import com.javiersantos.mlmanager.utils.UtilsDialog;
-import com.javiersantos.mlmanager.utils.UtilsUI;
+import com.kerrystudio.appsmanager.AppInfo;
+import com.kerrystudio.appsmanager.MLManagerApplication;
+import com.kerrystudio.appsmanager.R;
+import com.kerrystudio.appsmanager.adapters.AppAdapter;
+import com.kerrystudio.appsmanager.utils.AppPreferences;
+import com.kerrystudio.appsmanager.utils.UtilsApp;
+import com.kerrystudio.appsmanager.utils.UtilsDialog;
+import com.kerrystudio.appsmanager.utils.UtilsUI;
 import com.mikepenz.materialdrawer.Drawer;
 import com.pnikosis.materialishprogress.ProgressWheel;
 import com.yalantis.phoenix.PullToRefreshView;

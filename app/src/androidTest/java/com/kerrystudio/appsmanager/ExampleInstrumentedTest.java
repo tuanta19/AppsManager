@@ -1,4 +1,4 @@
-package com.javiersantos.mlmanager;
+package com.kerrystudio.appsmanager;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

@@ -1,4 +1,4 @@
-package com.javiersantos.mlmanager.utils;
+package com.kerrystudio.appsmanager.utils;
 
 import android.Manifest;
 import android.app.Activity;
@@ -17,9 +17,9 @@ import android.support.v4.content.ContextCompat;
 import android.view.MenuItem;
 
 import com.getbase.floatingactionbutton.FloatingActionButton;
-import com.javiersantos.mlmanager.AppInfo;
-import com.javiersantos.mlmanager.MLManagerApplication;
-import com.javiersantos.mlmanager.R;
+import com.kerrystudio.appsmanager.AppInfo;
+import com.kerrystudio.appsmanager.MLManagerApplication;
+import com.kerrystudio.appsmanager.R;
 
 import org.apache.commons.io.FileUtils;
 

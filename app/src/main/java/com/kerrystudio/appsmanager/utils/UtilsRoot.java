@@ -1,8 +1,8 @@
-package com.javiersantos.mlmanager.utils;
+package com.kerrystudio.appsmanager.utils;
 
 import android.os.Build;
 
-import com.javiersantos.mlmanager.MLManagerApplication;
+import com.kerrystudio.appsmanager.MLManagerApplication;
 
 import java.io.File;
 

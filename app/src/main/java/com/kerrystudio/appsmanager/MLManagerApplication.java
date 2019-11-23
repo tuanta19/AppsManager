@@ -1,8 +1,8 @@
-package com.javiersantos.mlmanager;
+package com.kerrystudio.appsmanager;
 
 import android.app.Application;
 
-import com.javiersantos.mlmanager.utils.AppPreferences;
+import com.kerrystudio.appsmanager.utils.AppPreferences;
 import com.mikepenz.google_material_typeface_library.GoogleMaterial;
 import com.mikepenz.iconics.Iconics;
 

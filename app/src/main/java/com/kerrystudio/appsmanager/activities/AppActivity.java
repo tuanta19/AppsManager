@@ -1,4 +1,4 @@
-package com.javiersantos.mlmanager.activities;
+package com.kerrystudio.appsmanager.activities;
 
 import android.app.Activity;
 import android.content.ClipData;
@@ -25,17 +25,17 @@ import android.widget.TextView;
 import com.afollestad.materialdialogs.MaterialDialog;
 import com.getbase.floatingactionbutton.FloatingActionButton;
 import com.getbase.floatingactionbutton.FloatingActionsMenu;
-import com.javiersantos.mlmanager.AppInfo;
-import com.javiersantos.mlmanager.MLManagerApplication;
-import com.javiersantos.mlmanager.R;
-import com.javiersantos.mlmanager.async.DeleteDataInBackground;
-import com.javiersantos.mlmanager.async.ExtractFileInBackground;
-import com.javiersantos.mlmanager.async.UninstallInBackground;
-import com.javiersantos.mlmanager.utils.AppPreferences;
-import com.javiersantos.mlmanager.utils.UtilsRoot;
-import com.javiersantos.mlmanager.utils.UtilsApp;
-import com.javiersantos.mlmanager.utils.UtilsDialog;
-import com.javiersantos.mlmanager.utils.UtilsUI;
+import com.kerrystudio.appsmanager.AppInfo;
+import com.kerrystudio.appsmanager.MLManagerApplication;
+import com.kerrystudio.appsmanager.R;
+import com.kerrystudio.appsmanager.async.DeleteDataInBackground;
+import com.kerrystudio.appsmanager.async.ExtractFileInBackground;
+import com.kerrystudio.appsmanager.async.UninstallInBackground;
+import com.kerrystudio.appsmanager.utils.AppPreferences;
+import com.kerrystudio.appsmanager.utils.UtilsRoot;
+import com.kerrystudio.appsmanager.utils.UtilsApp;
+import com.kerrystudio.appsmanager.utils.UtilsDialog;
+import com.kerrystudio.appsmanager.utils.UtilsUI;
 
 import java.util.Set;
 

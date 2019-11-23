@@ -1,4 +1,4 @@
-package com.javiersantos.mlmanager.listeners;
+package com.kerrystudio.appsmanager.listeners;
 
 import android.support.v7.widget.RecyclerView;
 

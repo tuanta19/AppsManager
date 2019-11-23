@@ -1,4 +1,4 @@
-package com.javiersantos.mlmanager.utils;
+package com.kerrystudio.appsmanager.utils;
 
 import android.app.Activity;
 import android.content.Context;
@@ -13,9 +13,9 @@ import com.afollestad.materialdialogs.MaterialDialog;
 import com.afollestad.materialdialogs.simplelist.MaterialSimpleListAdapter;
 import com.afollestad.materialdialogs.simplelist.MaterialSimpleListItem;
 import com.gc.materialdesign.widgets.SnackBar;
-import com.javiersantos.mlmanager.AppInfo;
-import com.javiersantos.mlmanager.MLManagerApplication;
-import com.javiersantos.mlmanager.R;
+import com.kerrystudio.appsmanager.AppInfo;
+import com.kerrystudio.appsmanager.MLManagerApplication;
+import com.kerrystudio.appsmanager.R;
 import com.mikepenz.google_material_typeface_library.GoogleMaterial;
 import com.mikepenz.iconics.IconicsDrawable;
 

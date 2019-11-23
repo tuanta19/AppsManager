@@ -1,15 +1,15 @@
-package com.javiersantos.mlmanager.async;
+package com.kerrystudio.appsmanager.async;
 
 import android.app.Activity;
 import android.content.Context;
 import android.os.AsyncTask;
 
 import com.afollestad.materialdialogs.MaterialDialog;
-import com.javiersantos.mlmanager.AppInfo;
-import com.javiersantos.mlmanager.MLManagerApplication;
-import com.javiersantos.mlmanager.R;
-import com.javiersantos.mlmanager.utils.UtilsApp;
-import com.javiersantos.mlmanager.utils.UtilsDialog;
+import com.kerrystudio.appsmanager.AppInfo;
+import com.kerrystudio.appsmanager.MLManagerApplication;
+import com.kerrystudio.appsmanager.R;
+import com.kerrystudio.appsmanager.utils.UtilsApp;
+import com.kerrystudio.appsmanager.utils.UtilsDialog;
 
 public class ExtractFileInBackground extends AsyncTask<Void, String, Boolean> {
     private Context context;

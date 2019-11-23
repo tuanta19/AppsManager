@@ -1,8 +1,8 @@
-package com.javiersantos.mlmanager.activities;
+package com.kerrystudio.appsmanager.activities;
 
 import android.os.Bundle;
 
-import com.javiersantos.mlmanager.R;
+import com.kerrystudio.appsmanager.R;
 import com.mikepenz.aboutlibraries.Libs;
 import com.mikepenz.aboutlibraries.LibsBuilder;
 import com.mikepenz.aboutlibraries.ui.LibsActivity;
